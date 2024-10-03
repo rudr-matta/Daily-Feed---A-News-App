@@ -1,0 +1,1 @@
+Daily Feed is a JavaScript-based news application that provides users with the latest news updates. It integrates Twilio to send news alerts directly to WhatsApp, offering a convenient way to stay informed. Simple and efficient, it ensures you never miss out on important news!
